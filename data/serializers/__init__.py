@@ -1,0 +1,2 @@
+from .bins_create_serializer import BinsCreateSerializer
+from .bins_list_serializer import BinsListSerializer
