@@ -1,11 +1,9 @@
 import time
 import ttn
 
-from decouple import config
 
-
-app_id = config('TTN_APP_ID')
-access_key = config('TTN_ACCESS_KEY')
+app_id = 'hackbackend'
+access_key = 'ahosetuhacoreuh943hpb3h'
 
 
 class TTNHandler:
